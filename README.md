@@ -13,4 +13,4 @@ sh master_script.sh
 
 ### Output Graph
 ![Alt text](krona.png?raw=true "Krona Plot")
-<a href="text.krona.html" title="Krona Plot">Krona Plot</a>
+<a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/Yolpanhchana/eDNA-Analysis/master/text.krona.html" title="Krona Plot">Krona Plot</a>
